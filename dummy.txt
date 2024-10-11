@@ -9,4 +9,5 @@ This is added finally.
 this is added for pull purpose
 
 
-some changes made for fetching purpose.
+some changes were made for fetching purposes.
+2.some changes were made for fetching purposes.
